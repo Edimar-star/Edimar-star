@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi, I'm Edilberto 👋
 
 <!--
 **Edimar-star/Edimar-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+```js
+const Edimar-start = {
+  pronouns: "He" | "Him",
+  code: [Java, C++, Python, Javascript, HTML, CSS],
+  tools: [Django, Bootstrap, jQuery],
+}
+```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edimar-star)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
