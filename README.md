@@ -1,12 +1,12 @@
 ### Hi, I'm Edilberto 👋
 
-**Edimar-star/Edimar-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ```js
 const Edimar-start = {
-  pronouns: "He" | "Him",
-  code: [Java, C++, Python, Javascript, HTML, CSS],
-  tools: [Django, Bootstrap, jQuery],
+  fullName = "Edilberto Mario Rodríguez Fontalvo",
+  Nickname = "Edi",
+  age: 19,
+  code: [Java (Medium), C++ (Medium), Python (Medium), Javascript (Medium), HTML, CSS],
+  tools: [Django (Medium), Bootstrap, jQuery (Basic)],
 }
 ```
 
@@ -14,12 +14,6 @@ const Edimar-start = {
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently studying Systems engineering at the Northern University
+- 🌱 I’m currently learning Python and C++
 
