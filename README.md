@@ -4,14 +4,13 @@
 const Edimar-start = {
   fullName = "Edilberto Mario Rodríguez Fontalvo",
   Nickname = "Edi",
-  age: 19,
-  code: [Java (Medium), C++ (Medium), Python (Medium), Javascript (Medium), HTML, CSS],
-  tools: [Django (Medium), Bootstrap, jQuery (Basic)],
+  age: 20,
+  code: [Java, C++, Python, Javascript, HTML, CSS],
+  tools: [Django, React, FastApi, Bootstrap],
 }
 ```
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edimar-star)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently studying Systems engineering at the Northern University
-- 🌱 I’m currently learning Python and C++
-
+- 🔭 I’m currently studying Systems engineering at the "Universidad del Norte"
+- 🌱 I’m currently learning Vue.js and Nest.js
