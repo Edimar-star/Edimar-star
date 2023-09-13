@@ -5,8 +5,9 @@ const Edimar-start = {
   fullName = "Edilberto Mario Rodríguez Fontalvo",
   Nickname = "Edi",
   age: 20,
-  code: [Java, C++, Python, Javascript, HTML, CSS],
+  code: [Java, C, C++, Python, Javascript, HTML, CSS],
   tools: [Django, React, FastApi, Bootstrap],
+  databases: [redis, mySQL, postgreSQL, mongoDB]
 }
 ```
 
