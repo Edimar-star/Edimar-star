@@ -1,8 +1,8 @@
 # 👋 Hola, Soy Edilberto
 
-🧑‍💻 Ingeniero de sistemas proximo a graduarme que muestra su aprendizaje en el mundo de la tecnología
-🧑‍🎓 Estudios culminados en ingenieria de sistemas y ciencias de la computación en Universidad del Norte
-💭 Actualmente aprendiendo Vue.js y c++ con enfasis en IA
+🧑‍💻 Ingeniero de sistemas proximo a graduarme que muestra su aprendizaje en el mundo de la tecnología  
+🧑‍🎓 Estudios culminados en ingenieria de sistemas y ciencias de la computación en Universidad del Norte  
+💭 Actualmente aprendiendo Vue.js y c++ con enfasis en IA  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edimar-star)](https://github.com/anuraghazra/github-readme-stats)
 
