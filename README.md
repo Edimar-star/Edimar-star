@@ -4,6 +4,8 @@
 🧑‍🎓 Estudios culminados en ingenieria de sistemas y ciencias de la computación en Universidad del Norte  
 💭 Actualmente aprendiendo Vue.js y c++ con enfasis en IA  
 
+# Portafolio: [Click here](https://portfolio-27x0.onrender.com/)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edimar-star)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🖥️ Tecnologías
