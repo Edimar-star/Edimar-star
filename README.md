@@ -1,6 +1,5 @@
 # 👋 Hola, Soy Edilberto
 
-🧑‍💻 Ingeniero de sistemas proximo a graduarme que muestra su aprendizaje en el mundo de la tecnología  
 🧑‍🎓 Estudios culminados en ingenieria de sistemas y ciencias de la computación en Universidad del Norte  
 💭 Actualmente aprendiendo Vue.js y c++ con enfasis en IA  
 
